@@ -2,7 +2,7 @@ const initBg = (autoplay = true) => {
     const bgImgsNames = ['wp4.png', 'wp7.png', 'wp10.png'];
     const bgImgs = bgImgsNames.map(img => "img/" + img);
 
-    $.backstretch(bgImgs, {duration: 4000, fade: 500});
+    $.backstretch(bgImgs, {duration: 7000, fade: 800});
 
     if(!autoplay) {
       $.backstretch('pause');  
