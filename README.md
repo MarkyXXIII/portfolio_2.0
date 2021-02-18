@@ -1,6 +1,6 @@
-# portfolio_2.0
+# Portfolio 2.0
 
-## Table of contents
+## Contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
