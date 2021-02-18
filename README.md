@@ -11,7 +11,9 @@ Second attempt at a portfolio website. I have used a template here, as I wanted 
 
 ## Screenshots
 
-![Homepage](https://github.com/MarkyXXIII/portfolio_2.0/blob/main/screenshots/about.jpg)
+![Mark Williams Homepage](https://github.com/MarkyXXIII/portfolio_2.0/blob/main/screenshots/index.jpg)
+![Mark Williams About Me](https://github.com/MarkyXXIII/portfolio_2.0/blob/main/screenshots/about.jpg)
+![Mark Williams Contact](https://github.com/MarkyXXIII/portfolio_2.0/blob/main/screenshots/contact.jpg)
 
 ## Technologies
 Project is created with:
