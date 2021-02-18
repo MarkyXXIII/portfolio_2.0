@@ -7,7 +7,7 @@
 * [Project Status](#project-status)
 
 ## General info
-Second attempt at a portfolio website. I have used a template here, as I wanted to practice looking through, and editing, code that wasn't originally written by me. It also gave me the opportunity to fiddle with Bootstrap and jQuery
+Second attempt at a portfolio website. I have used a template here, as I wanted to practice looking through, and editing, code that wasn't originally written by me. It also gave me the opportunity to play around with Bootstrap and jQuery.
 
 ## Screenshots
 
