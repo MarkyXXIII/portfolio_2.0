@@ -11,7 +11,7 @@ Second attempt at a portfolio website. I have used a template here, as I wanted 
 
 ## Screenshots
 
-![alt text](https://github.com/MarkyXXIII/portfolio_2.0/screenshots/index.jpg?raw=true)
+![Homepage](https://github.com/MarkyXXIII/portfolio_2.0/blob/main/screenshots/about.jpg)
 
 ## Technologies
 Project is created with:
